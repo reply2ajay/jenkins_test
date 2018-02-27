@@ -8,7 +8,7 @@ sasaassasasa
 ### install common-lib
   * go inside to the common-lib project folder
   * then run ``` mvn clean install ```
-  
+  x xzvcxvcxvcxvcxvcxvxvcxvcxvcxvcxvxx
 ### run discovery-server
   * go inside to the discovery-server project folder
   * then run ``` mvn clean package ```
